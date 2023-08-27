@@ -19,15 +19,15 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2593789-1",
+"yandex_inter":"R-M-2593789-3",
+"yandex_native":"R-M-2593789-2",
+"yandex_reward":"R-M-2593789-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_reward":"",
 
   
  "more_apps_info":[
@@ -37,20 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"In the dynamic world of gaming, where every detail contributes to the overall experience, it's the little things that often make a big impact. One such element that adds a layer of excitement and personalization to the popular game Standoff 2 is the pursuit of stickers. "ОХОТА ЗА НАКЛЕЙКАМИ STANDOFF 2," translated as "Hunting for Stickers in Standoff 2," takes players on an intriguing journey as they seek to adorn their weapons with unique and coveted stickers. Let's delve into the fascinating world of sticker hunting and discover how it enhances the gameplay in Standoff 2.",
-   "photo1":"https://iili.io/HDxmPCQ.webp"},
-  {"desc2":"At its core, Standoff 2 is a fast-paced multiplayer first-person shooter that demands precision, strategy, and teamwork. To inject a touch of personal flair into the gameplay, the developers introduced a sticker system that allows players to customize their weapons with a variety of eye-catching designs. These stickers serve as badges of honor, showcasing a player's achievements, preferences, and unique style.","photo2":"https://iili.io/HDxpBus.webp"},
-  {"desc3":"ОХОТА ЗА НАКЛЕЙКАМИ STANDOFF 2 is not merely a cosmetic pursuit; it's a thrilling quest that adds an extra layer of motivation for players. Stickers can be acquired through various means, such as in-game achievements, challenges, or by opening sticker capsules. This mechanic encourages players to strive for excellence, complete objectives, and push their limits to unlock coveted stickers for their arsenal.","photo3":"https://iili.io/HDxpLxf.webp"},
-  {"desc4":"Collecting stickers in Standoff 2 often involves a combination of skill, dedication, and a touch of luck. Whether you're aiming for a rare emblem that showcases your commitment or a sticker that resonates with your gaming persona, the journey itself becomes a part of the gaming experience, fostering a sense of accomplishment with each sticker acquired.","photo4":"https://iili.io/HDxpmU7.webp"},
-  {"desc5":"One of the most remarkable aspects of sticker hunting is the opportunity for players to express their individuality within the game. The stickers you choose to adorn your weapons with can reflect your personality, preferences, or even commemorate memorable in-game moments. From fierce animal motifs to intricate patterns and graffiti-style artwork, the stickers in Standoff 2 offer a plethora of options for players to curate a unique visual identity for their in-game persona.","photo5":"https://iili.io/HDxy3Wx.webp"},
-  {"descd":"While sticker hunting is undoubtedly a personal endeavor, it also contributes to the competitive aspect of Standoff 2. Displaying rare or exclusive stickers can showcase your dedication and expertise to fellow players, acting as a badge of honor that sets you apart. Additionally, trading stickers with other players fosters a sense of camaraderie within the gaming community, allowing players to connect and engage in a vibrant virtual economy centered around these prized possessions.","photod":"https://iili.io/HDxy70N.webp"}
+  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
+   "photo1":"https://iili.io/Ht07B6b.webp"},
+  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
+  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
+  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
+  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
    ]
  
+}
